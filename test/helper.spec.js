@@ -1,6 +1,6 @@
 "use strict";
 
-const helper = require('../src/helper');
+const helper = require('../index.js');
 
 describe("Helper unit test", () => {
     it("should capitalize letters", () => {
