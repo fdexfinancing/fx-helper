@@ -1,6 +1,6 @@
 {
   "name": "fx-helper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Fx Helper",
   "main": "index.js",
   "scripts": {
